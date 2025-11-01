@@ -1,8 +1,9 @@
-# 👋 Hi, I'm [Rojina Raut]  
+# 👋 Hi, I'm Rojina Raut 
 
 🎓 **Graduate Teaching Assistant | Northwest Missouri State University**  
 
-I’m passionate about **data-driven problem solving**, **project management**, and **machine learning**. With a background in **Business Administration (Finance)** and a current pursuit of **M.S. in Information Systems**, I love building data-driven insights and efficient systems that create real impact.  
+I’m passionate about **data-driven problem solving**, **project management**, and **machine learning**. 
+With a background in **Business Administration (Finance)** and a current pursuit of **M.S. in Information Systems**, I love building data-driven insights and efficient systems that create real impact.  
 
 ---
 
@@ -20,6 +21,7 @@ I’m passionate about **data-driven problem solving**, **project management**, 
 ## 🧠 Research & Publications
 **Medical Chat: A Multi-Modal LLM-Based Chatbot for Streamlining Patient Referrals**  
 Panday, A., K.C., A., Raut, R., Li, T., Chai, S. (2025).  
+
 Accepted for presentation at **2025 International Workshop on Intelligence Systems (WI 2005)**  
 📄 *Paper ID: WI228*
 
@@ -27,7 +29,9 @@ Accepted for presentation at **2025 International Workshop on Intelligence Syste
 
 ## ⚙️ Technologies & Tools
 **Languages:** Python, Java, SQL, JavaScript, HTML, CSS  
+
 **Tools:** IBM SPSS, Power BI, Tableau, Jira, MS Project
+
 **Areas of Interest:** Machine Learning, Information Systems, Data Analytics, Software Project Management
 
 ---
