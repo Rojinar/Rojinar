@@ -32,7 +32,7 @@ Accepted for presentation at **2025 International Workshop on Intelligence Syste
 
 **Tools:** IBM SPSS, Power BI, Tableau, Jira, MS Project
 
-**Areas of Interest:** Machine Learning, Information Systems, Data Analytics, Software Project Management
+**Areas of Interest:** Data Analytics, Software Project Management,Information Systems, Machine Learning
 
 ---
 
